@@ -81,11 +81,12 @@ qa_docs/
          pytest tests/test_main.py -v
     ```
 
+---
 ## Example of the application in operation
 ![Demo](demo/demo.png)
 
----
 
+---
 ## Notes
 
 - On startup, backend loads and chunks the PDF.
