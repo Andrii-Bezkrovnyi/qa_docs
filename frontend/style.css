@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 2rem auto;
+}
+input[type="text"] {
+  width: 70%;
+  padding: 8px;
+}
+button {
+  padding: 8px;
+  margin-left: 8px;
+}
+.answer-box {
+  background: #f0f0f0;
+  min-height: 40px;
+  padding: 10px;
+  margin-top: 5px;
+}
+#history {
+  margin-top: 10px;
+}
+#history li {
+  margin-bottom: 10px;
+  background: #f8f8f8;
+  padding: 8px;
+  border-radius: 5px;
+}
